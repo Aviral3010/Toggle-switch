@@ -1,6 +1,6 @@
 
 # CSS Toggle Switch 
 
-This sswitch has made using CSS animations.
+This switch has been made using CSS animations.
 
-You can get both of the svg image in the same.....
+You can get both of the svg images in the same.....
